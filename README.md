@@ -1,8 +1,12 @@
 # Jet
 
+<img src="images/icon.png" alt="Jet theme icon" width="96" height="96" align="right" />
+
 A near-black dark theme for Visual Studio 2019 and later.
 
 Jet is a darkened take on Visual Studio's built-in **Dark** theme. Shell and editor surfaces are pushed toward almost-OLED depth without pure black everywhere, so panels keep a thin charcoal separation. Syntax colors are boosted for contrast on near-black while keeping distinct hues (for example, cool violet for preprocessor vs warm magenta for macros).
+
+![Jet theme preview](images/preview.png)
 
 ## Features
 
